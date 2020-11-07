@@ -1,1 +1,1 @@
-# new_git_practice
+# new_git_practices of the year
