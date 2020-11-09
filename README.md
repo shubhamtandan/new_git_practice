@@ -1,1 +1,1 @@
-# new_git_practices of the years
+# new_git_practices of the years it takes
